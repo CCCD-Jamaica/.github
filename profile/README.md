@@ -25,5 +25,8 @@ The CCCD has not previously worked with a Peace Corps Volunteer or a Virtual Ser
 -	Train select member(s) of CCCD to develop and manage the website.
 
 ## Current Project Status
-- Website colors chosen based on the CCCD Jamaica logo and Jamaican flag. All colors will meet WCAG Level I & II accessibility compliance.
+- Website colors chosen based on the CCCD Jamaica logo and Jamaican flag.
+  - All colors will meet WCAG Level I & II accessibility compliance.
+- Initial website will be developed wtih SvelteKit to speed up deployment and training.
+  - By Milestone 2, Drupal may be integrated as a decoupled solution. 
 
