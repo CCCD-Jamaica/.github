@@ -1,11 +1,19 @@
 ## CCCD Jamaica + US Peace Corps Virtual Service Pilot Project
 
 
-**Currently working on website redesign for CCCD Jamaica:**
+**Support Website Creation for Centre for the Deaf**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Country: Jamaica
+- Organization: Caribbean Christian Centre for the Deaf
+  - Local NGO
+  - Mission and Goals: To enable full language access and affirmation in an inclusive community whereby students and employees are empowered with the knowledge to know the Lord. Appreciate diversity and understand the functions of the world. To Reach, Teach and Nurture the Deaf. [https://www.cccdjamaica.org/](https://www.cccdjamaica.org/)
+  - VSPP Host Country Counterpart: John Meeks, Social Enterprise Officer
+  - VSSP: Kevin Miller, Jr., RPCV Kazakhstan (1997-1999) and IT Web Application Developer (Department of Children, Youth, and Families - State of Washington)
+- Project Background: The Caribbean Christian Centre for the Deaf (CCCD) is an organization in Jamaica that provides the deaf with an accessible education and authentic community through the operation of three residential schools and one Deaf village. For over 50 years, students have been able to learn sign language, gain an education, obtain vocational skills, and ultimately go out into the world. However, many will graduate and have nowhere to go due to the overall lack of awareness, rights, and accessibility for the Deaf in Jamaica. The Deaf village has apartments, a church, a woodworking shop, a community center, and the ability to employ and find gainful employment for its members. 
+
+Within the disabilities sector, CCCD is well known. Outside of this niche, there is less awareness for CCCD. Though this does not affect day to day operations, a stronger NGO sector impact can be made. The CCCD seeks to make a concerted effort to have more impact outside of the disabilities sector to build greater awareness for the Deaf. This may also create opportunities to diversify funding sources and introduce a compatible/complementary collaboration for collective impact. The CCCD seeks to work with a Virtual Service Pilot Participant (VSPP) with experience as a website developer to co-design and co-create their new website, and train staff on website development and maintenance.
+
+The CCCD has not previously worked with a Peace Corps Volunteer or a Virtual Service Pilot Participant. They understand that the role of a VSPP is very different than a two-year Volunteer. 
+
+- Current Project Status: Initial draft website being developed
 
