@@ -8,6 +8,12 @@
   - Mission and Goals: To enable full language access and affirmation in an inclusive community whereby students and employees are empowered with the knowledge to know the Lord. Appreciate diversity and understand the functions of the world. To Reach, Teach and Nurture the Deaf. [https://www.cccdjamaica.org/](https://www.cccdjamaica.org/).
   - VSPP Host Country Counterpart: John Meeks, Social Enterprise Officer.
   - VSP Participant: Kevin Miller, Jr., RPCV Kazakhstan (1997-1999) and IT Web Application Developer (Department of Children, Youth, and Families - State of Washington).
+ 
+### Description
+
+This is a [US Peace Corps Virtual Service Pilot](https://www.peacecorps.gov/volunteer/virtual-service-pilot/) (VSP) project that started on November, 2023. It is not a US Peace Corps Volunteer project. The current project is a collaboration between CCCD Jamaica and the [Peace Corps Jamaica](https://www.peacecorps.gov/jamaica/). 
+
+**Note**: VSP Participants are currently Returned Peace Corps Volunteers and private US citizens donating their time each week in service of the Peace Corps mission. They are not Peace Corps Volunteers.
   
 ### Project Background
 
