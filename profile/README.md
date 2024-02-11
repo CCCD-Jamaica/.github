@@ -1,7 +1,7 @@
 ## CCCD Jamaica + US Peace Corps Virtual Service Pilot Project
 
 
-**Support Website Creation for Centre for the Deaf**
+**Project: Support Website Creation for Centre for the Deaf**
 
 - Country: Jamaica
 - Organization: Caribbean Christian Centre for the Deaf
@@ -18,5 +18,13 @@ Within the disabilities sector, CCCD is well known. Outside of this niche, there
 
 The CCCD has not previously worked with a Peace Corps Volunteer or a Virtual Service Pilot Participant. They understand that the role of a VSPP is very different than a two-year Volunteer. 
 
-- Current Project Status: Initial draft website being developed
+***Engagement and Tasks***
+- Collaborate to assess and determine website design goals
+-	Co-conceptualize creative ideas on the design of the website and co-design visual imagery 
+-	Co-create a website using Word Press or a similar platform, and co-design and proofread sample pages 
+-	Create a website maintenance guide establishing design guidelines, standards, and best practices
+-	Train select member(s) of CCCD to develop and manage the website
+
+**Current Project Status**
+- Website colors chosen based on the CCCD Jamaica logo and Jamaican flag. All colors will meet WCAG Level I & II accessibility compliance.
 
