@@ -7,7 +7,7 @@
   - Local NGO.
   - Mission and Goals: To enable full language access and affirmation in an inclusive community whereby students and employees are empowered with the knowledge to know the Lord. Appreciate diversity and understand the functions of the world. To Reach, Teach and Nurture the Deaf. [https://www.cccdjamaica.org/](https://www.cccdjamaica.org/).
   - VSPP Host Country Counterpart: John Meeks, Social Enterprise Officer.
-  - VSSP: Kevin Miller, Jr., RPCV Kazakhstan (1997-1999) and IT Web Application Developer (Department of Children, Youth, and Families - State of Washington).
+  - VSP Participant: Kevin Miller, Jr., RPCV Kazakhstan (1997-1999) and IT Web Application Developer (Department of Children, Youth, and Families - State of Washington).
   
 ### Project Background
 
