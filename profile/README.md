@@ -1,7 +1,7 @@
 ## CCCD Jamaica + US Peace Corps Virtual Service Pilot Project
 
 
-### Project: Support Website Creation for Centre for the Deaf**
+## Project: Support Website Creation for Centre for the Deaf**
 - Country: Jamaica.
 - Organization: Caribbean Christian Centre for the Deaf.
   - Local NGO.
@@ -9,7 +9,7 @@
   - VSPP Host Country Counterpart: John Meeks, Social Enterprise Officer.
   - VSP Participant: Kevin Miller, Jr., RPCV Kazakhstan (1997-1999) and IT Web Application Developer (Department of Children, Youth, and Families - State of Washington).
  
-### Description
+### Description of Virtual Service Pilot
 
 This is a [US Peace Corps Virtual Service Pilot](https://www.peacecorps.gov/volunteer/virtual-service-pilot/) (VSP) project that started on November, 2023. It is not a US Peace Corps Volunteer project. The current project is a collaboration between CCCD Jamaica and the [Peace Corps Jamaica](https://www.peacecorps.gov/jamaica/). 
 
