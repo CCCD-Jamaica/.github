@@ -9,7 +9,7 @@
   - VSPP Host Country Counterpart: John Meeks, Social Enterprise Officer.
   - VSSP: Kevin Miller, Jr., RPCV Kazakhstan (1997-1999) and IT Web Application Developer (Department of Children, Youth, and Families - State of Washington).
   
-###Project Background
+### Project Background
 
 The Caribbean Christian Centre for the Deaf (CCCD) is an organization in Jamaica that provides the deaf with an accessible education and authentic community through the operation of three residential schools and one Deaf village. For over 50 years, students have been able to learn sign language, gain an education, obtain vocational skills, and ultimately go out into the world. However, many will graduate and have nowhere to go due to the overall lack of awareness, rights, and accessibility for the Deaf in Jamaica. The Deaf village has apartments, a church, a woodworking shop, a community center, and the ability to employ and find gainful employment for its members. 
 
@@ -17,13 +17,13 @@ Within the disabilities sector, CCCD is well known. Outside of this niche, there
 
 The CCCD has not previously worked with a Peace Corps Volunteer or a Virtual Service Pilot Participant. They understand that the role of a VSPP is very different than a two-year Volunteer. 
 
-###Engagement and Tasks
+### Engagement and Tasks
 - Collaborate to assess and determine website design goals.
 -	Co-conceptualize creative ideas on the design of the website and co-design visual imagery.
 -	Co-create a website using Word Press or a similar platform, and co-design and proofread sample pages.
 -	Create a website maintenance guide establishing design guidelines, standards, and best practices.
 -	Train select member(s) of CCCD to develop and manage the website.
 
-##Current Project Status
+## Current Project Status
 - Website colors chosen based on the CCCD Jamaica logo and Jamaican flag. All colors will meet WCAG Level I & II accessibility compliance.
 
