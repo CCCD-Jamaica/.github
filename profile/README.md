@@ -1,7 +1,7 @@
-## Hi there 👋
+## CCCD Jamaica + US Peace Corps Virtual Service Pilot Project
 
 
-**Here are some ideas to get you started:**
+**Currently working on website redesign for CCCD Jamaica:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
