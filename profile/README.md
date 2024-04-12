@@ -1,7 +1,7 @@
 ## CCCD Jamaica + US Peace Corps Virtual Service Pilot Project
 
 
-## Project: Support Website Creation for Centre for the Deaf**
+## Project: Support Website Creation for Centre for the Deaf
 - Country: Jamaica.
 - Organization: Caribbean Christian Centre for the Deaf.
   - Local NGO.
